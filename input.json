@@ -1,0 +1,2185 @@
+{
+    "vehicles": [
+        {
+            "id": 560202,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    26100,
+                    63900
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788139,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            45000,
+                            48600
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 566031,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    14400,
+                    38700
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788184,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            26580,
+                            28380
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 566032,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    14400,
+                    38700
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788185,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            26580,
+                            28380
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 566041,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    15300,
+                    37800
+                ]
+            ]
+        },
+        {
+            "id": 567558,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    48600,
+                    75600
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788087,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            62100,
+                            63900
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 567559,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    48600,
+                    75600
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788289,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            62100,
+                            63900
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 567561,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    48600,
+                    75600
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788291,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            62100,
+                            63900
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 568533,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    47700,
+                    79200
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788295,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            63480,
+                            67080
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 569530,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    46800,
+                    79200
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788091,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            63000,
+                            66600
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 569564,
+            "start": [
+                -104.901957,
+                39.775121
+            ],
+            "end": [
+                -104.901957,
+                39.775121
+            ],
+            "capacity": [
+                4
+            ],
+            "time_windows": [
+                [
+                    48600,
+                    81000
+                ]
+            ],
+            "breaks": [
+                {
+                    "id": 1788398,
+                    "service": 1800,
+                    "max_load": [0],
+                    "time_windows": [
+                        [
+                            64800,
+                            68400
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "shipments": [
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787389,
+                "service": 300,
+                "description": "18262 E 100TH PL COMMERCE CITY",
+                "location": [
+                    -104.775581,
+                    39.878665
+                ],
+                "time_windows": [
+                    [
+                        27000,
+                        28800
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787389,
+                "service": 300,
+                "description": "14406 E EVANS AVE AURORA",
+                "location": [
+                    -104.8206,
+                    39.678663
+                ],
+                "time_windows": [
+                    [
+                        29220,
+                        31020
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788564,
+                "service": 300,
+                "description": "10307 PITKIN CT COMMERCE CITY",
+                "location": [
+                    -104.788707,
+                    39.880078
+                ],
+                "time_windows": [
+                    [
+                        27900,29700
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788564,
+                "service": 300,
+                "description": "4704 HARLAN ST DENVER",
+                "location": [
+                    -105.062532,
+                    39.782639
+                ],
+                "time_windows": [
+                    [
+                        33300,	34200
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788501,
+                "service": 300,
+                "description": "11059 E BETHANY DR AURORA",
+                "location": [
+                    -104.859333,
+                    39.663135
+                ],
+                "time_windows": [
+                    [51300,53100
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788501,
+                "service": 300,
+                "description": "331 MILLER AVE BRIGHTON",
+                "location": [
+                    -104.830475,
+                    39.981554
+                ],
+                "time_windows": [
+                    [
+                        54300,56100
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787701,
+                "service": 300,
+                "description": "15591 E CENTRETECH PKWY AURORA",
+                "location": [
+                    -104.806568,
+                    39.722606
+                ],
+                "time_windows": [
+                    [
+                        52200,	54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787701,
+                "service": 300,
+                "description": "5059 THISTLE DR BRIGHTON",
+                "location": [
+                    -104.752282,
+                    39.992452
+                ],
+                "time_windows": [
+                    [
+                        54600,56400
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787707,
+                "service": 300,
+                "description": "5694 N GIBRALTER WY AURORA",
+                "location": [
+                    -104.756863,
+                    39.799053
+                ],
+                "time_windows": [
+                    [
+                        55980,	57780
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787707,
+                "service": 300,
+                "description": "1000 CHOPPER CIR DENVER",
+                "location": [
+                    -105.007005,
+                    39.747759
+                ],
+                "time_windows": [
+                    [
+                        61200,	61200
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786669,
+                "service": 300,
+                "description": "17006 E OHIO DR AURORA",
+                "location": [
+                    -104.787237,
+                    39.701287
+                ],
+                "time_windows": [
+                    [
+                        15300,	17100
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786669,
+                "service": 300,
+                "description": "7606 E 36TH AVE DENVER",
+                "location": [
+                    -104.899722,
+                    39.766733
+                ],
+                "time_windows": [
+                    [
+                        17700,19500
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786959,
+                "service": 300,
+                "description": "10332 ASHTON CT THORNTON",
+                "location": [
+                    -104.960776,
+                    39.882555
+                ],
+                "time_windows": [
+                    [
+                        17100,	18900
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786959,
+                "service": 300,
+                "description": "1865 W 121ST AVE DENVER",
+                "location": [
+                    -105.009206,
+                    39.916111
+                ],
+                "time_windows": [
+                    [
+                        18120,19920
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788566,
+                "service": 300,
+                "description": "6380 BRENTWOOD ST ARVADA",
+                "location": [
+                    -105.08915,
+                    39.81272
+                ],
+                "time_windows": [
+                    [
+                        19800,	21600
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788566,
+                "service": 300,
+                "description": "8100 SOUTHPARK WY LITTLETON",
+                "location": [
+                    -105.003506,
+                    39.570119
+                ],
+                "time_windows": [
+                    [
+                        25200,	26100
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786945,
+                "service": 300,
+                "description": "10542 HOLYOKE DR PARKER",
+                "location": [
+                    -104.785212,
+                    39.528852
+                ],
+                "time_windows": [
+                    [
+                        27000,	28800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786945,
+                "service": 300,
+                "description": "2400 W ALAMO AVE LITTLETON",
+                "location": [
+                    -105.016198,
+                    39.612653
+                ],
+                "time_windows": [
+                    [
+                        29280,31080
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787160,
+                "service": 300,
+                "description": "19361 E TUFTS CIR CENTENNIAL",
+                "location": [
+                    -104.762166,
+                    39.63274
+                ],
+                "time_windows": [
+                    [
+                        32400,	34200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787160,
+                "service": 300,
+                "description": "1597 COLE BLVD GOLDEN",
+                "location": [
+                    -105.152534,
+                    39.741431
+                ],
+                "time_windows": [
+                    [
+                        35520,37320
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788148,
+                "service": 300,
+                "description": "14973 E 45TH AVE DENVER",
+                "location": [
+                    -104.816633,
+                    39.775531
+                ],
+                "time_windows": [
+                    [
+                        14400,	16200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788148,
+                "service": 300,
+                "description": "1700 N WHEELING ST AURORA",
+                "location": [
+                    -104.831002,
+                    39.743666
+                ],
+                "time_windows": [
+                    [
+                        15660,17460
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786858,
+                "service": 300,
+                "description": "8250 E HARVARD AVE DENVER",
+                "location": [
+                    -104.891836,
+                    39.670096
+                ],
+                "time_windows": [
+                    [
+                        18000,	19800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786858,
+                "service": 300,
+                "description": "505 E COLFAX AVE DENVER",
+                "location": [
+                    -104.98105,
+                    39.740049
+                ],
+                "time_windows": [
+                    [
+                        19500,21300
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786694,
+                "service": 300,
+                "description": "7315 S EAGLES NEST CIR DENVER",
+                "location": [
+                    -105.135486,
+                    39.584908
+                ],
+                "time_windows": [
+                    [
+                        21900,	23700
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786694,
+                "service": 300,
+                "description": "3235 MILL VISTA RD HIGHLANDS RANCH",
+                "location": [
+                    -105.03054,
+                    39.560019
+                ],
+                "time_windows": [
+                    [
+                        23100,24900
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787336,
+                "service": 300,
+                "description": "4624 S RALEIGH ST DENVER",
+                "location": [
+                    -105.04343,
+                    39.633186
+                ],
+                "time_windows": [
+                    [
+                        22200,	24000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787336,
+                "service": 300,
+                "description": "3590 JASMINE ST DENVER",
+                "location": [
+                    -104.918809,
+                    39.767268
+                ],
+                "time_windows": [
+                    [
+                        24900,26700
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787855,
+                "service": 300,
+                "description": "6645 E 67TH PL COMMERCE CITY",
+                "location": [
+                    -104.910963,
+                    39.819285
+                ],
+                "time_windows": [
+                    [
+                        27000,	28800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787855,
+                "service": 300,
+                "description": "1405 CORTEZ ST DENVER",
+                "location": [
+                    -105.004777,
+                    39.830888
+                ],
+                "time_windows": [
+                    [
+                        27960,29760
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787618,
+                "service": 300,
+                "description": "2234 S ZENO ST AURORA",
+                "location": [
+                    -104.773198,
+                    39.678497
+                ],
+                "time_windows": [
+                    [
+                        16200,	18000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787618,
+                "service": 300,
+                "description": "1400 S POTOMAC ST AURORA",
+                "location": [
+                    -104.831138,
+                    39.69126
+                ],
+                "time_windows": [
+                    [
+                        17520,19320
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787267,
+                "service": 300,
+                "description": "3074 S QUINTERO WY AURORA",
+                "location": [
+                    -104.787475,
+                    39.660781
+                ],
+                "time_windows": [
+                    [
+                        18000,	19800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787267,
+                "service": 300,
+                "description": "1700 N WHEELING ST AURORA",
+                "location": [
+                    -104.831002,
+                    39.743666
+                ],
+                "time_windows": [
+                    [
+                        19260,21060
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787664,
+                "service": 300,
+                "description": "2079 CRYSTAL PEAK LITTLETON",
+                "location": [
+                    -105.013194,
+                    39.526786
+                ],
+                "time_windows": [
+                    [
+                        24180,	25980
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787664,
+                "service": 300,
+                "description": "2500 E 4TH AVE DENVER",
+                "location": [
+                    -104.957323,
+                    39.722554
+                ],
+                "time_windows": [
+                    [
+                        26700,27600
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787969,
+                "service": 300,
+                "description": "6076 S LAMAR DR LITTLETON",
+                "location": [
+                    -105.070082,
+                    39.60532
+                ],
+                "time_windows": [
+                    [
+                        26100,	27900
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787969,
+                "service": 300,
+                "description": "6500 E GIRARD AVE DENVER",
+                "location": [
+                    -104.912307,
+                    39.654058
+                ],
+                "time_windows": [
+                    [
+                        28800,	29700
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788620,
+                "service": 300,
+                "description": "980 S LOCUST STREET DENVER",
+                "location": [
+                    -104.913783,
+                    39.69891
+                ],
+                "time_windows": [
+                    [
+                        28800,	30600
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788620,
+                "service": 300,
+                "description": "9725 E HAMPDEN AVE DENVER",
+                "location": [
+                    -104.875046,
+                    39.653062
+                ],
+                "time_windows": [
+                    [
+                        29940,31740
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787331,
+                "service": 300,
+                "description": "5420 S QUAIL WY LITTLETON",
+                "location": [
+                    -105.124411,
+                    39.618145
+                ],
+                "time_windows": [
+                    [
+                        30600,	32400
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787331,
+                "service": 300,
+                "description": "13636 S INDEPENDENCE ST LAKEWOOD",
+                "location": [
+                    -105.103648,
+                    39.651544
+                ],
+                "time_windows": [
+                    [
+                        31500,33300
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787293,
+                "service": 300,
+                "description": "11485 W POWERS AVE LITTLETON",
+                "location": [
+                    -105.12769,
+                    39.613423
+                ],
+                "time_windows": [
+                    [
+                        52200	,54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787293,
+                "service": 300,
+                "description": "4695 PARFET ST WHEAT RIDGE",
+                "location": [
+                    -105.121027,
+                    39.78205
+                ],
+                "time_windows": [
+                    [
+                        53760,55560
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788464,
+                "service": 300,
+                "description": "10355 S PROGRESS WY PARKER",
+                "location": [
+                    -104.770396,
+                    39.527456
+                ],
+                "time_windows": [
+                    [
+                        53100,	54900
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788464,
+                "service": 300,
+                "description": "3290 S DOWNING ST ENGLEWOOD",
+                "location": [
+                    -104.973509,
+                    39.656934
+                ],
+                "time_windows": [
+                    [
+                        55080,56880
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786902,
+                "service": 300,
+                "description": "10350 W COLFAX AVE LAKEWOOD",
+                "location": [
+                    -105.11375,
+                    39.740114
+                ],
+                "time_windows": [
+                    [
+                        61200,	63000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786902,
+                "service": 300,
+                "description": "19160 E CARMEL DR AURORA",
+                "location": [
+                    -104.764111,
+                    39.749825
+                ],
+                "time_windows": [
+                    [
+                        63540,65340
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786610,
+                "service": 300,
+                "description": "3821 S BANNOCK ST ENGLEWOOD",
+                "location": [
+                    -104.990083,
+                    39.647215
+                ],
+                "time_windows": [
+                    [
+                        66600,	68400
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786610,
+                "service": 300,
+                "description": "4775 S GALAPAGO ST ENGLEWOOD",
+                "location": [
+                    -104.996072,                    
+                    39.629916
+                ],
+                "time_windows": [
+                    [
+                        67200,69000
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786647,
+                "service": 300,
+                "description": "5900 S SANTA FE DR LITTLETON",
+                "location": [
+                    -105.021252,
+                    39.610906
+                ],
+                "time_windows": [
+                    [
+                        68400,	70200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786647,
+                "service": 300,
+                "description": "18510 E MAINSTREET PARKER",
+                "location": [
+                    -104.772771,
+                    39.518225
+                ],
+                "time_windows": [
+                    [
+                        70740,72540
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786870,
+                "service": 300,
+                "description": "4000 RED CEDAR DR HIGHLANDS RANCH",
+                "location": [
+                    -104.941448,
+                    39.524623
+                ],
+                "time_windows": [
+                    [
+                        50700,	52500
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786870,
+                "service": 300,
+                "description": "10682 RIVERBROOK CIR HIGHLANDS RANCH",
+                "location": [
+                    -104.957871,
+                    39.521531
+                ],
+                "time_windows": [
+                    [
+                        51060,52860
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787364,
+                "service": 300,
+                "description": "15591 E CENTRETECH PKWY AURORA",
+                "location": [
+                    -104.806568,
+                    39.722606
+                ],
+                "time_windows": [
+                    [
+                        52200,	54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787364,
+                "service": 300,
+                "description": "10653 CLARKEVILLE WY PARKER",
+                "location": [
+                    -104.781659,
+                    39.521615
+                ],
+                "time_windows": [
+                    [
+                        54360,56160
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787417,
+                "service": 300,
+                "description": "7313 S ALTON WY CENTENNIAL",
+                "location": [
+                    -104.88289,
+                    39.583742
+                ],
+                "time_windows": [
+                    [
+                        52200,	54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787417,
+                "service": 300,
+                "description": "16780 FIREBRICK DR PARKER",
+                "location": [
+                    -104.795051,
+                    39.51007
+                ],
+                "time_windows": [
+                    [
+                        53340,55140
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787744,
+                "service": 300,
+                "description": "8959 E DRY CREEK RD ENGLEWOOD",
+                "location": [
+                    -104.884984,
+                    39.580487
+                ],
+                "time_windows": [
+                    [
+                        57600,	59400
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787744,
+                "service": 300,
+                "description": "100 E HIGHLINE CIR CENTENNIAL",
+                "location": [
+                    -104.987352,
+                    39.593858
+                ],
+                "time_windows": [
+                    [
+                        58680,60480
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786596,
+                "service": 300,
+                "description": "4886 S JELLISON ST LITTLETON",
+                "location": [
+                    -105.108136,
+                    39.62779
+                ],
+                "time_windows": [
+                    [
+                        59400,	61200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786596,
+                "service": 300,
+                "description": "6024 S PERTH ST CENTENNIAL",
+                "location": [
+                    -104.735815,
+                    39.607047
+                ],
+                "time_windows": [
+                    [
+                        62880,64680
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788383,
+                "service": 300,
+                "description": "819 W LITTLETON BLVD LITTLETON",
+                "location": [
+                    -104.997963,
+                    39.613284
+                ],
+                "time_windows": [
+                    [
+                        68400,	70200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788383,
+                "service": 300,
+                "description": "2720 E OTERO PL CENTENNIAL",
+                "location": [
+                    -104.955891,
+                    39.569278
+                ],
+                "time_windows": [
+                    [
+                        69600,71400
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787509,
+                "service": 300,
+                "description": "7401 W 59TH AVE ARVADA",
+                "location": [
+                    -105.079844,
+                    39.803712
+                ],
+                "time_windows": [
+                    [
+                        52200,	54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787509,
+                "service": 300,
+                "description": "20387 E DARTMOUTH DR AURORA",
+                "location": [
+                    -104.750672,
+                    39.66052
+                ],
+                "time_windows": [
+                    [
+                        55500, 57300
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788067,
+                "service": 300,
+                "description": "5150 BROADWAY DENVER",
+                "location": [
+                    -104.987569,
+                    39.790124
+                ],
+                "time_windows": [
+                    [
+                        52200,54000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788067,
+                "service": 300,
+                "description": "11559 E WARREN PL AURORA",
+                "location": [
+                    -104.854069,
+                    39.676145
+                ],
+                "time_windows": [
+                    [
+                        54780,56580
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786613,
+                "service": 300,
+                "description": "1405 CORTEZ ST DENVER",
+                "location": [
+                    -105.004777,
+                    39.830888
+                ],
+                "time_windows": [
+                    [
+                        61200,	63000
+
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786613,
+                "service": 300,
+                "description": "11651 E CORNELL CIR AURORA",
+                "location": [
+                    -104.852394,
+                    39.662577
+                ],
+                "time_windows": [
+                    [
+                        63120,64920
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788523,
+                "service": 300,
+                "description": "2504 E ARAPAHOE RD CENTENNIAL",
+                "location": [
+                    -104.958484,
+                    39.595174
+                ],
+                "time_windows": [
+                    [
+                        64800,	66600
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788523,
+                "service": 300,
+                "description": "4051 S ATCHISON WY AURORA",
+                "location": [
+                    -104.824905,
+                    39.643993
+                ],
+                "time_windows": [
+                    [
+                        66780,68580
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788460,
+                "service": 300,
+                "description": "19799 E 36TH DR AURORA",
+                "location": [
+                    -104.758434,
+                    39.76599
+                ],
+                "time_windows": [
+                    [
+                        68400,	70200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788460,
+                "service": 300,
+                "description": "1965 ALTURA BLVD AURORA",
+                "location": [
+                    -104.814769,
+                    39.746829
+                ],
+                "time_windows": [
+                    [
+                        69240,71040
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788728,
+                "service": 300,
+                "description": "3475 HOLLY ST DENVER",
+                "location": [
+                    -105.004777,
+                    39.830888
+                ],
+                "time_windows": [
+                    [
+                        52200,	54000
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788728,
+                "service": 300,
+                "description": "17632 E TENNESSEE PL AURORA",
+                "location": [
+                    -104.781764,
+                    39.662577
+                ],
+                "time_windows": [
+                    [
+                        54960,56760
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788351,
+                "service": 300,
+                "description": "6770 W 52ND AVE ARVADA",
+                "location": [
+                    -105.072098,
+                    39.791061
+                ],
+                "time_windows": [
+                    [
+                        56700,	58500
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788351,
+                "service": 300,
+                "description": "2046 S NEWARK WY AURORA",
+                "location": [
+                    -104.853788,
+                    39.679434
+                ],
+                "time_windows": [
+                    [
+                        59640,61440
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788354,
+                "service": 300,
+                "description": "6268 W 55TH AVE ARVADA",
+                "location": [
+                    -105.065818,
+                    39.796341
+                ],
+                "time_windows": [
+                    [
+                        56700,	58500
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788354,
+                "service": 300,
+                "description": "14975 E RADCLIFF DR AURORA",
+                "location": [
+                    -104.813884,
+                    39.637801
+                ],
+                "time_windows": [
+                    [
+                        58860,	60660
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787235,
+                "service": 300,
+                "description": "11425 COMMUNITY CENTER DR DENVER",
+                "location": [
+                    -104.987962,
+                    39.902113
+                ],
+                "time_windows": [
+                    [
+                        61200	,63000
+
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787235,
+                "service": 300,
+                "description": "9800 WACO ST COMMERCE CITY",
+                "location": [
+                    -104.777318,
+                    39.874914
+                ],
+                "time_windows": [
+                    [
+                        63240,65040
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787306,
+                "service": 300,
+                "description": "13559 HURON STREET WESTMINSTER",
+                "location": [
+                    -104.997417,
+                    39.942151
+                ],
+                "time_windows": [
+                    [
+                        54000,	55800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787306,
+                "service": 300,
+                "description": "706 15TH ST GOLDEN",
+                "location": [
+                    -105.218158,
+                    39.753406
+                ],
+                "time_windows": [
+                    [
+                        56520,58320
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787031,
+                "service": 300,
+                "description": "8845 WAGNER ST WESTMINSTER",
+                "location": [
+                    -105.047968,
+                    39.85725
+                ],
+                "time_windows": [
+                    [
+                        51300,	53100
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787031,
+                "service": 300,
+                "description": "6380 S FENTON CT LITTLETON",
+                "location": [
+                    -105.061446,
+                    39.600261
+                ],
+                "time_windows": [
+                    [
+                        
+                        59400,	59400
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787275,
+                "service": 300,
+                "description": "6850 FEDERAL BLVD DENVER",
+                "location": [
+                    -105.025023,
+                    39.820964
+                ],
+                "time_windows": [
+                    [
+                        50400,	52200
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787275,
+                "service": 300,
+                "description": "1931 E 135TH PL THORNTON",
+                "location": [
+                    -104.9617,
+                    39.94238
+                ],
+                "time_windows": [
+                    [
+                        52740,54540
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1786681,
+                "service": 300,
+                "description": "5755 W ALAMEDA AVE DENVER",
+                "location": [
+                    -105.059917,
+                    39.711171
+                ],
+                "time_windows": [
+                    [
+                        49500,	51300
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1786681,
+                "service": 300,
+                "description": "8690 DECATUR ST WESTMINSTER",
+                "location": [
+                    -105.022635,
+                    39.854969
+                ],
+                "time_windows": [
+                    [
+                        50940,52740
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787287,
+                "service": 300,
+                "description": "8000 W 10TH AVE LAKEWOOD",
+                "location": [
+                    -105.086087,
+                    39.732971
+                ],
+                "time_windows": [
+                    [
+                        61200,	63000
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787287,
+                "service": 300,
+                "description": "311 N 10TH AVE BRIGHTON",
+                "location": [
+                    -104.810082,
+                    39.992406
+                ],
+                "time_windows": [
+                    [
+                        64200,66000
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788434,
+                "service": 300,
+                "description": "3155 S PLATTE RIVER DR WESTMINSTER",
+                "location": [
+                    -105.004945,
+                    39.657023
+                ],
+                "time_windows": [
+                    [
+                        54000,	55800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788434,
+                "service": 300,
+                "description": "8856 ESTES ST WESTMINSTER",
+                "location": [
+                    -105.096177,
+                    39.857866
+                ],
+                "time_windows": [
+                    [
+                        57360,59160
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788343,
+                "service": 300,
+                "description": "3294 S ACOMA ST ENGLEWOOD",
+                "location": [
+                    -104.988892,
+                    39.657199
+                ],
+                "time_windows": [
+                    [
+                        54000,	55800
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788343,
+                "service": 300,
+                "description": "5900 S SANTA FE DR LITTLET",
+                "location": [
+                    -105.021252,
+                    39.610906
+                ],
+                "time_windows": [
+                    [
+                        55020,56820
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787329,
+                "service": 300,
+                "description": "375 S UNION BLVD LAKEWOOD",
+                "location": [
+                    -105.132398,
+                    39.708953
+                ],
+                "time_windows": [
+                    [
+                        51300,	53100
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787329,
+                "service": 300,
+                "description": "9325 W 48TH AVE WHEAT RIDGE",
+                "location": [
+                    -105.10194,
+                    39.784062
+                ],
+                "time_windows": [
+                    [
+                        52680,54480
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1787136,
+                "service": 300,
+                "description": "4535 EVERETT CT WHEAT RIDGE",
+                "location": [
+                    -105.09722,
+                    39.779615
+                ],
+                "time_windows": [
+                    [
+                        46800,	48600
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1787136,
+                "service": 300,
+                "description": "7984 W ALAMEDA AVE LAKEWOOD",
+                "location": [
+                    -105.086074,
+                    39.711099
+                ],
+                "time_windows": [
+                    [
+                        
+                        48240,50040
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788277,
+                "service": 300,
+                "description": "10350 W COLFAX AVE LAKEWOOD",
+                "location": [
+                    -105.11375,
+                    39.740114
+                ],
+                "time_windows": [
+                    [
+                        62100,	63900
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788277,
+                "service": 300,
+                "description": "4747 LONGS PEAK ST BRIGHTON",
+                "location": [
+                    -104.756955,
+                    39.994692
+                ],
+                "time_windows": [
+                    [
+                        64800,66600
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788153,
+                "service": 300,
+                "description": "6340 W 56TH AVE ARVADA",
+                "location": [
+                    -105.065715,
+                    39.798346
+                ],
+                "time_windows": [
+                    [
+                        56700,	58500
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788153,
+                "service": 300,
+                "description": "19156 E CARMEL CIR AURORA",
+                "location": [
+                    -104.76421,
+                    39.749221
+                ],
+                "time_windows": [
+                    [
+                        
+                        58560, 60360
+
+
+                    ]
+                ]
+            }
+        },
+        {
+            "amount": [
+                1
+            ],
+            "pickup": {
+                "id": 1788563,
+                "service": 300,
+                "description": "6268 W 55TH AVE ARVADA",
+                "location": [
+                    -105.065818,
+                    39.796341
+                ],
+                "time_windows": [
+                    [
+                        56700,	58500
+
+                    ]
+                ]
+            },
+            "delivery": {
+                "id": 1788563,
+                "service": 300,
+                "description": "11000 E WESLEY PL AURORA",
+                "location": [
+                    -104.860063,
+                    39.672309
+                ],
+                "time_windows": [
+                [
+                    59520,61320
+
+                ]
+            ]
+        
+  
+        }
+    }
+
+    ],
+    "options":{
+        "g": true
+    }
+}
